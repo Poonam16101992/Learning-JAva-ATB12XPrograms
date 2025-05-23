@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Lab068_MaxNumberOfThreeNumbers" type="Application" factoryName="Application" nameIsGenerated="true">
+    <option name="MAIN_CLASS_NAME" value="ex_06_TernaryOperators.Lab068_MaxNumberOfThreeNumbers" />
+    <module name="Learning-JAva-ATB12XPrograms" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="ex_06_TernaryOperators.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

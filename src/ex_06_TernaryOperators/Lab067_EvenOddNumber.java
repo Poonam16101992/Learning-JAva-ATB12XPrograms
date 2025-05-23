@@ -1,8 +1,8 @@
 package ex_06_TernaryOperators;
 
-public class Task1 {
+public class Lab067_EvenOddNumber {
     public static void main(String[] args) {
-        int num=10;
+        int num=0;
 
          String result = (num % 2 == 0) ? "Number is Even" : "Number is Odd";
 
