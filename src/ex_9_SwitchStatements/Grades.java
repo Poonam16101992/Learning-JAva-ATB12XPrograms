@@ -1,0 +1,28 @@
+package ex_9_SwitchStatements;
+
+import java.util.Scanner;
+
+public class Grades {
+
+    public static void main(String[] args) {
+
+        Scanner scanner= new Scanner(System.in);
+
+        System.out.println("Enter Grade");
+        String grade= scanner.next();
+        grade= grade.toUpperCase();
+
+        switch (grade){
+            case "A"-> System.out.println("Excellent");
+            case "B"-> System.out.println("Very Good");
+            case "C"-> System.out.println("Good");
+            case "D"-> System.out.println("Needs Improvement");
+            case "E"-> System.out.println("Fail");
+            default -> System.out.println("Invalid Grade");
+
+
+        }
+
+
+    }
+}
