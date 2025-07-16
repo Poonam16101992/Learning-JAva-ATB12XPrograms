@@ -1,14 +1,3 @@
-Great! Here are some **additional test cases** for the `IsValidISBN10` SOAP API that cover more edge cases and robustness testing. These follow the same format and will be added below the existing ones.
-
----
-
-### ➕ **Additional Test Cases**
-
-| Test Case ID  | Test Case Name                 | Preconditions         | Test Steps                                      | Test Data                | Expected Result            | Actual Result | Status (Pass/Fail) | Remarks                                          |
-| ------------- | ------------------------------ | --------------------- | ----------------------------------------------- | ------------------------ | -------------------------- | ------------- | ------------------ | ------------------------------------------------ |
-Here is the **Markdown version** of the test cases for the `IsValidISBN10` SOAP API, formatted using a clean and readable table layout:
-
----
 
 ### 📋 **Test Cases for IsValidISBN10 SOAP API**
 
